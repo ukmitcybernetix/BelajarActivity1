@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BelajarActivity</string>
+    <string name="camera_button">Open Camera</string>
+    <string name="close_btn">Tutup Activity</string>
+</resources>
